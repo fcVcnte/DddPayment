@@ -1,0 +1,15 @@
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.deps.json
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.dll
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.pdb
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.dll
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\refint\PaymentContext.Domain.dll
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.pdb
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\ref\PaymentContext.Domain.dll
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Shared.dll
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Shared.pdb
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.CopyComplete
