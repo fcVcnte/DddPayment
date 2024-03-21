@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dGAsYgd0FvvvYOl20v830d5OcHlafMzx+mMoQx32uCAhFj71Q2r3CCK7IcEQr4qAmoAzjd3L8nkMHVSf57b/HQ==",
+  "dgSpecHash": "Evq62GwfWESTzUD0IH3TjwvmoR5l35XCkGdqi9TPUcXVRDr61wk2oEiy2Tv35E59evVjOKPRewoGhTn3xAStiA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\ASP.NET\\JWT Authentication\\DddPayment\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dckw0rth\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
