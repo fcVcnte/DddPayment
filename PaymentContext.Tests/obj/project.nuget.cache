@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RGdyQTJyr+iT/Ul/QjBd6ZH1+65Zx2J+Qd7VFgS5iy8MJOfOGHj02SVvjxsvqjShM/jgHcaS2t3PHIayYhRHpQ==",
+  "dgSpecHash": "gA88loaTl9k3LEcS3MhtW2+ZRzQcd0SZ08driMBq8dTgZpN4YvFRatGNZTHs1yVyhSnKbhaG/5hkSMMgZPqY+Q==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\ASP.NET\\JWT Authentication\\DddPayment\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dckw0rth\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\dckw0rth\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\dckw0rth\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
     "C:\\Users\\dckw0rth\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.1\\microsoft.net.test.sdk.17.7.1.nupkg.sha512",
     "C:\\Users\\dckw0rth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

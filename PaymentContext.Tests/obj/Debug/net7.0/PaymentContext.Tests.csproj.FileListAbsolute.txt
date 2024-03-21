@@ -102,3 +102,4 @@ C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Tests\bin\Debug
 C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Shared.dll
 C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Domain.pdb
 C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Shared.pdb
+C:\Projetos\ASP.NET\JWT Authentication\DddPayment\PaymentContext.Tests\bin\Debug\net7.0\Flunt.dll
