@@ -1,4 +1,5 @@
 using Flunt.Notifications;
+using Flunt.Validations;
 using PaymentContext.Shared.ValueObjects;
 
 namespace PaymentContext.Domain.ValueObjects 
@@ -10,8 +11,11 @@ namespace PaymentContext.Domain.ValueObjects
             FirstName = firstName;
             LastName = lastName;
 
-            if (string.IsNullOrEmpty(FirstName))
-                AddNotification("Name.FirstName", "Invalid name");
+            var contract = new Contract<Name>().Requires()
+                .IsLowerThan(FirstName, 3, "Name.FirstName", "Invalid first name")
+                .IsLowerThan(LastName, 3, "Name.LastName", "Invalid last name");
+            
+            AddNotifications(contract);
         }
 
         public string FirstName { get; private set; }
